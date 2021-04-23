@@ -1,0 +1,259 @@
+@charset "utf-8";
+#wrapper {
+    max-width: 1024 px;
+    display: block;
+    border: 10px solid #9F78C2;
+    width: 900px;
+    float: none;
+    margin: auto;
+}
+h3 {
+    font-family: chewy;
+    font-style: normal;
+    font-weight: 400;
+}
+.factsheader {
+    color: #8F66B4;
+    margin-left: 7%;
+}
+th {
+    background-color: #AD63FF;
+    font-family: chewy;
+    font-style: normal;
+    font-weight: 400;
+    color: #B6EBF5;
+}
+
+.factsmain {
+    width: 100%;
+}
+
+
+
+.asidep {
+    margin-left: 2%;
+    margin-top: -5%;
+
+}
+
+p {
+    font-family: gloria-hallelujah;
+    font-style: normal;
+    font-weight: 400;
+    color: #775695;
+}
+
+footer {
+    width: 100%;
+    height: 36px;
+    display: inline-block;
+    background-color: #DB89AF;
+}
+body {
+    background-color: #BCB1F6;
+}
+
+
+#wrapper #banner {
+    width: 100%;
+    height: 84px;
+    display: inline-block;
+    background-color: #B6EBF5;
+}
+.navbuttons {
+    display: inline;
+    margin-left: 8%;
+    margin-top: 0%;
+    text-decoration: none;
+}
+.asidep {
+
+}
+
+a {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+    color: #2A7FC8;
+}
+a:hover {
+    text-decoration: none;
+    color: #B276FF;
+    background-color: #A7E5FF;
+}
+
+
+aside p img {
+    margin-right: -16px;
+}
+
+h1 {
+    color: #9C59E7;
+    font-family: chewy;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26pt;
+}
+nav {
+    height: 35px;
+    width: 100%;
+    background-color: #A0D8E2;
+}
+main {
+    width: 65%;
+    height: 234px;
+    display: inline-block;
+    float: left;
+    background-color: #AEB4F5;
+}
+aside {
+    width: 35%;
+    height: 234px;
+    display: inline-block;
+    background-color: #CACDF3;
+}
+#cookie1 {
+}
+.cookie {
+    float: left;
+    margin-left: 6%;
+}
+.logo {
+    float: left;
+    margin-right: 0%;
+    margin-left: 14px;
+    margin-top: -6px;
+
+
+}
+.header1 {
+    margin-left: 24%;
+}
+footer {
+    float: none;
+    clear: none;
+}
+.footertext {
+    float: left;
+    margin-top: 0%;
+}
+.aboutheader {
+    color: #8C4ED4;
+    margin-left: 2%;
+}
+.hi {
+    margin-left: 0%;
+}
+.about {
+}
+
+
+.easterheader {
+    text-align: center;
+}
+.hi {
+}
+.aboutp {
+    margin-top: -4%;
+    margin-bottom: 0%;
+    margin-left: 3%;
+}
+.homep {
+    margin-left: 2%;
+}
+.h {
+}
+.asidep {
+}
+.asideheader {
+}
+.dogpic {
+    margin-left: 33%;
+    margin-top: -3%;
+}
+.asidep2 {
+    text-align: left;
+    vertical-align: baseline;
+    text-transform: none;
+    white-space: normal;
+
+}
+.factsheader {
+}
+.factsmain {
+}
+td {
+    background-color: #C5D7E8;
+    color: #AD63FF;
+    font-family: chewy;
+    font-style: normal;
+    font-weight: 400;
+}
+table {
+    width: 14px;
+    margin-left: 1%;
+    margin-top: -1%;
+    border-color: #FFFFFF;
+    -webkit-box-shadow: 0px 0px 3px;
+    box-shadow: 0px 0px 3px;
+}
+tbody {
+    border-color: #4640D0;
+}
+.cookieclipart {
+    float: left;
+    margin-left: -22px;
+
+}
+#contactmain {
+}
+#wrapper #contactmain {
+    height: 500px;
+    width: 65%;
+
+
+
+
+}
+.contactp {
+    margin-left: 10px;
+
+}
+
+.formtable {
+    /* [disabled]max-width: 213px; */
+    margin-left: 62px;
+}
+input, textarea {
+    background-color: #ABD6FF;
+}
+.contactp {
+}
+.buttons {
+    font-family: chewy;
+    font-style: normal;
+    font-weight: 400;
+    width: 28%;
+    height: 0%;
+    margin-left: 125px;
+    color: #853BD8;
+}
+#contentaside {
+}
+#wrapper #contentaside {
+    height: 500px;
+}
+.addressform {
+    text-align: center;
+}
+.addressp {
+    text-align: center;
+}
+.house {
+}
+.housepic {
+    margin-left: 11%;
+
+
+}
